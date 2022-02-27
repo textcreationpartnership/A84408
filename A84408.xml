@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>George Keith his saying, that the light within is not sufficient to salvation without something else: prov'd to be contrary to the foundation of the Christian religion. By Edmund Elys</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84408</idno>
+            <idno type="STC">Wing E675A</idno>
+            <idno type="STC">ESTC R232101</idno>
+            <idno type="EEBO-CITATION">99897818</idno>
+            <idno type="PROQUEST">99897818</idno>
+            <idno type="VID">170950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170950)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2532:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>George Keith his saying, that the light within is not sufficient to salvation without something else: prov'd to be contrary to the foundation of the Christian religion. By Edmund Elys</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, next door to the Meeting-House in White-Hart-Court in Gracious-Street, and at the Bible in Leaden-Hall-Street near the Market,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term>Inner Light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:170950:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:170950:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:170950:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:170950:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>
+               <hi>George Keith</hi> HIS SAYING, <hi>That the</hi> Light within <hi>is not ſufficient to Salvation without ſomething elſe:</hi> PROV'D To be contrary to the Foundation of the Chriſti<g ref="char:EOLhyphen"/>an Religion.</head>
+            <byline>By <hi>EDM<g ref="char:V">Ʋ</g>ND ELYS.</hi>
+            </byline>
+            <p>BY the FOUNDATION of Chriſtianity I underſtand the <hi>Ground,</hi> or Reaſon we have to Believe that JE<g ref="char:EOLhyphen"/>SUS CHRIST is a Perſon ALL-SUFFICIENT to <hi>Save his People from their Sins:</hi> His People, that is to ſay, thoſe who put their whole Truſt and Confidence in Him, to Deliver them from ALL EVIL, and to bring them to the Everlaſting Enjoyment of all that is Truly and Really GOOD for them. The People call'd <hi>Quakers</hi> plainly, and expreſly Declare, that by <hi>The Light within,</hi> they underſtand JESUS CHRIST Himſelf, and all that comes from Him, tending to the CONVICTION, and CON<g ref="char:EOLhyphen"/>VERSION <hi>of Sinners.</hi> Now ſince <hi>The Light within</hi> is the Onely True and Eternal SON of the Onely True and Eternal GOD, LIGHT OF LIGHT, VERY
+<pb n="2" facs="tcp:170950:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->GOD OF VERY GOD (yet but one God) is it not a kind of <hi>Blaſphemy</hi> to ſay, That the Light within is not Suf<g ref="char:EOLhyphen"/>ficient without Something Elſe? How vain and abſurd (to ſay no worſe) is G. KEITH's Inſulting over G. WHITEHEAD in the Pamphlet he Entitles, G. KEITH's <hi>Second Narative,</hi> in theſe words: <q>Here now at length he hath openly ſhown his Deiſm and <hi>Antichri<g ref="char:EOLhyphen"/>ſtian</hi> Doctrine, for if it be an offenſive and falſe Aſſertion to ſay, The <hi>Light within</hi> is not ſufficient to Salvation with<g ref="char:EOLhyphen"/>out ſomething elſe, the Contradictory muſt be true, that the <hi>Light within</hi> is ſufficient to ſalvation without any thing elſe, and ſo without Chriſt's Blood outwardly ſhed, and his Sacrifice on the Croſs, and Interceſſion for us in Heaven, all which are <hi>ſomething elſe</hi> than the <hi>Light with<g ref="char:EOLhyphen"/>in Men.</hi>
+               </q> Anſwer; ſuch a Propoſition as this, <hi>the Light within is ſufficient to Salvation without any thing elſe,</hi> is to be Rejected for this Reaſon, that ſuch words imply this falſe ſuppoſition, that there may be <hi>ſomething,</hi> that is not included in the ſignification of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Goloſſ.</hi> 1.17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <q>By him (Jeſus Chriſt, the <hi>Light within</hi>
+               </q>) all things Conſiſt, that is, they have their Being <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in him, whoſe <hi>Nature</hi> Praeexiſtent to the <hi>Humane Nature</hi> which HE was Pleas'd to Aſſume for Us Men; even for our Salvation, is the One NATURE, or BE<g ref="char:EOLhyphen"/>ING <hi>Abſolutely Infinite.</hi> I ſhall here Recite ſome words of a Letter I ſent to G. KEITH in Anſwer to one I Re<g ref="char:EOLhyphen"/>ceived from Him: <q>You ſay, the <hi>Light within</hi> Us could not become a Curſe for Us, nor be Hanged on a Tree;</q> To this I Anſwer, That the <hi>Same Perſon,</hi> or HE HIM<g ref="char:EOLhyphen"/>SELF who is the <hi>Light within</hi> Us, became a Curſe for <hi>
+                  <g ref="char:V">Ʋ</g>S,</hi> and was Hanged on a Tree. You ſay alſo, That <q>GOD is in all the Devils, and he is Light Eſſentially in them all; and yet would it not found harſh to thy Ears to ſay, The <hi>Light</hi> in all Devils is ſufficient to their Salva<g ref="char:EOLhyphen"/>tion?
+<pb n="2" facs="tcp:170950:3"/>
+                  <!-- PDF PAGE 24 -->&amp;c.</q> Anſw. ſuch a ſaying would indeed ſound ve<g ref="char:EOLhyphen"/>ry harſh to my Ears: For GOD is not in the Nature of Devils, as he is in the Nature of Man: For our Salvation, not for the Salvation of Devils, the TRUE LIGHT <hi>was Incar<g ref="char:EOLhyphen"/>nate by the Holy Ghoſt of the Virgin Mary, and was made Man, and was Crucified alſo for <g ref="char:V">Ʋ</g>s, under</hi> Pontius Pilate: <hi>He Suffer'd, and was Buryed; &amp; the third Day he Roſe again according to the Scrip<g ref="char:EOLhyphen"/>tures, and Aſcended into Heaven, and ſitteth on the Right Hand of the Father, and he ſhall come again with Glory to Judge the Quick and the Dead, whoſe Kingdom ſhall have no End.</hi> Whoſoever does not Act contrary to the Manifeſtation of his preſent Duty, may be truly ſaid, to <hi>walk in Light;</hi> and ſhall from time to time have ſo much <hi>(Explicit, or Implicit)</hi> Knowledge of what our Bleſſed LORD hath done, and <hi>Suffer'd in the Fleſh,</hi> and of his Interceſſion, &amp;c. as the True Light, the <hi>Infinity of Wiſdom,</hi> Knows to be neceſſary for him: whoſoever therefore Faithfully adheres to the <hi>Light within,</hi> tho' he be depriv'd of the Sight or Hearing of the Holy Scriptures, of all Good Books, and of all Religi<g ref="char:EOLhyphen"/>ous Society, he ſhall as certainly Remain in a State of Salva<g ref="char:EOLhyphen"/>tion, as if he had all ſuch outward Means of Grace. I ſhall ſay no more at this time, but that I Beſeech Almighty GOD to Give his Grace to Thee, and my Dear Chriſtian Reader, <hi>That we may know the Love of Chriſt, which paſſeth Knowledge; that we may be Fill'd with all the Fulneſs of GOD.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed and Sold by <hi>T. Sowle,</hi> next Door to the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-Street</hi> near the <hi>Market,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
